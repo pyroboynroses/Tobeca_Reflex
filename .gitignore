@@ -4,6 +4,7 @@
 
 *.pydevproject
 .project
+*.skb
 .metadata
 bin/
 tmp/
